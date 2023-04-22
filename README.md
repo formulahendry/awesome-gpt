@@ -32,6 +32,7 @@ words with AI, powered by DALL·E.
 ### LLM (Large Language Model)
 
 - [Google Bard](https://bard.google.com/) - An experimental conversational AI service, powered by LaMDA.
+- [Claude](https://www.anthropic.com/index/introducing-claude) - A next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) - Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation.
 - [Midjourney](https://www.midjourney.com/) - An artificial intelligence program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc.
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) - A deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions.
