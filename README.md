@@ -66,6 +66,13 @@ words with AI, powered by DALL·E.
 
 ## Applications and Demos
 
+- [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram, QQ).
+- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - A code review bot powered by ChatGPT.
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot.
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel.
 - [chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot) - A ChatGPT Teams Bot app to let you chat with ChatGPT in Microsoft Teams.
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command.
+- [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT Telegram Bot: GPT-4. Fast. No daily limits. Special chat modes.
 - [chatgpt-wechat-bot](https://github.com/formulahendry/chatgpt-wechat-bot) - ChatGPT WeChat Bot, based on ChatGPT API and Wechaty.
+- [Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - Dingtalk + GPT-3.5.
+- [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
