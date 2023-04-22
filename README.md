@@ -22,7 +22,7 @@ This repository is a collection of awesome projects and resources related to GPT
 ### GPT (Generative Pre-trained Transformer)
 
 - [GPT-4](https://openai.com/product/gpt-4) - OpenAI’s most advanced system, producing safer and more useful responses.
-- [ChatGPT](https://chat.openai.com/) - A variant of the GPT language model that is specifically designed for generating human-like responses in conversational settings
+- [ChatGPT](https://openai.com/blog/chatgpt) - A variant of the GPT language model that is specifically designed for generating human-like responses in conversational settings
 - [DALL·E 2](https://openai.com/product/dall-e-2) - An AI system that can create realistic images and art from a description in natural language.
 - [Whisper](https://openai.com/research/whisper) - Transcribe speech into text and translate many languages into English.
 - [New Bing](https://news.microsoft.com/the-new-Bing/) - The new Bing is like having a research assistant, personal planner, and creative partner at your side whenever you search the web.
@@ -45,7 +45,7 @@ words with AI, powered by DALL·E.
 - [OpenAI API Examples](https://platform.openai.com/examples)
 - [OpenAI API Playground](https://platform.openai.com/playground)
 - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
-- [Code Samples for OpenAI & Azure OpenAI](http://github.com/formulahendry/openai-examples)
+- [Code Samples for OpenAI & Azure OpenAI](https://github.com/formulahendry/openai-examples)
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) - Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.
 
 ## Copilot
