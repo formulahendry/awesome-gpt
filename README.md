@@ -6,9 +6,9 @@ A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI
 
 - [Introduction](#introduction)
 - [Resources](#resources)
-  - [GPT (Generative Pre-trained Transformer)](#gpt)
-  - [LLM (Large Language Model)](#llm)
-- [developers](#developers)
+  - [GPT (Generative Pre-trained Transformer)](#gpt-generative-pre-trained-transformer)
+  - [LLM (Large Language Model)](#llm-large-language-model)
+- [Developers](#developers)
 - [Copilot](#copilot)
 - [Projects and Tools](#projects-and-tools)
 - [Applications and Demos](#applications-and-demos)
