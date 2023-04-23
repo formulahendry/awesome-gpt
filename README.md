@@ -79,3 +79,4 @@ words with AI, powered by DALL·E.
 - [chatgpt-wechat-bot](https://github.com/formulahendry/chatgpt-wechat-bot) - ChatGPT WeChat Bot, based on ChatGPT API and Wechaty.
 - [Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - Dingtalk + GPT-3.5.
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
+- [Chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and rate limit, support openai, claude model or custom model
