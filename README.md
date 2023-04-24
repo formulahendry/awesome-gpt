@@ -64,6 +64,7 @@ words with AI, powered by DALL·E.
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI.
 - [Ghostwriter](https://replit.com/site/ghostwriter) - An AI pair programmer that helps you write better code, faster.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - An AI coding companion that generates whole line and full function code suggestions in your IDE to help you get more done faster.
+- [CodeGeeX](https://codegeex.cn/) - CodeGeeX is an open source AI Coding Assistant, supporting VS Code and Jetbrains IDEs
 
 ## Applications and Demos
 
