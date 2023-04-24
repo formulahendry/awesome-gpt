@@ -71,6 +71,7 @@ words with AI, powered by DALL·E.
 - [Azure OpenAI Proxy](https://github.com/scalaone/azure-openai-proxy) - An Azure OpenAI API proxy tool that can convert OpenAI API requests into Azure OpenAI API requests, allowing applications that only support OpenAI to seamlessly use Azure Open AI.
 - [bloop](https://github.com/BloopAI/bloop) - A fast code search engine written in Rust.
 - [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram, QQ).
+- [Chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and rate limit, support openai, claude model or custom model
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - A code review bot powered by ChatGPT.
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot.
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel.
