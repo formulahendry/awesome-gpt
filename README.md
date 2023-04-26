@@ -54,6 +54,8 @@ words with AI, powered by DALL·E.
 - [GitHub Copilot](https://github.com/features/copilot) - Trained on billions of lines of code, GitHub Copilot turns natural language prompts into coding suggestions across dozens of languages.
 - [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/) - Your copilot for work. It combines the power of large language models (LLMs) with your data in the Microsoft Graph and the Microsoft 365 apps to turn your words into the most powerful productivity tool on the planet.
 - [Microsoft Dynamics 365 Copilot](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/) - Copilot in both CRM and ERP, that brings next-generation AI to every line of business.
+- [Microsoft Power Platform Copilot](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/) - Bringing the power of AI Copilot to both app makers and their end-users in Power Apps. With Copilot you can build an app, including the data behind it, just by describing what you need through multiple steps of conversation.
+- [Xmind Copilot](https://xmind.ai/) - Xmind Copilot is an intelligent product that combines Xmind mind mapping with GPT technology. It can help users organize their thoughts more efficiently, adjust content structures, and automatically generate articles using GPT technology.
 
 ## Projects and Tools
 
@@ -61,6 +63,7 @@ words with AI, powered by DALL·E.
 - [MiniGPT-4](https://minigpt-4.github.io/) - Enhancing Vision-language Understanding with Advanced Large Language Models.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed empowers ChatGPT-like model training with a single click, offering 15x speedup over SOTA RLHF systems with unprecedented cost reduction at all scales.
 - [TaskMatrix (Visual ChatGPT)](https://github.com/microsoft/TaskMatrix) - TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Semantic Kernel (SK) is a lightweight SDK that lets you easily mix conventional programming languages with the latest in Large Language Model (LLM) AI "prompts" with templating, chaining, and planning capabilities out-of-the-box.
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI.
 - [Ghostwriter](https://replit.com/site/ghostwriter) - An AI pair programmer that helps you write better code, faster.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - An AI coding companion that generates whole line and full function code suggestions in your IDE to help you get more done faster.
