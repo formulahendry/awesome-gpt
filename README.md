@@ -70,6 +70,7 @@ words with AI, powered by DALL·E.
 - [CodeGeeX](https://codegeex.cn/) - CodeGeeX is an open source AI Coding Assistant, supporting VS Code and Jetbrains IDEs.
 - [Tabnine](https://www.tabnine.com/) - Tabnine uses generative AI technology to predict and suggests your next lines of code based on context & syntax. It can be run on a developer's laptop, on a server inside your firewall, or in the cloud.
 - [Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) - IntelliCode helps you drive accuracy and consistency with code completion that can fill in a whole line at once, supporting VS Code and VS IDE.
+- [Nekton.AI](https://nekton.ai/) - Automate your workflows with AI. Describe your workflow as plain text, and Nekton will automate it using GPT-4 and run it in the cloud.
 
 ## Applications and Demos
 
