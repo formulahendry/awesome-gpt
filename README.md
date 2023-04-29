@@ -33,6 +33,7 @@ words with AI, powered by DALL·E.
 
 - [Google Bard](https://bard.google.com/) - An experimental conversational AI service, powered by LaMDA.
 - [Claude](https://www.anthropic.com/index/introducing-claude) - A next-generation AI assistant based on Anthropic’s research into training helpful, honest, and harmless AI systems.
+- [HuggingChat](https://huggingface.co/chat/) - HuggingChat's goal is to provide an AI assistant with a friendly, human-like personality and the ability to understand and respond to natural language queries from users like you.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) - Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation.
 - [Midjourney](https://www.midjourney.com/) - An artificial intelligence program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc.
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) - A deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions.
@@ -55,6 +56,7 @@ words with AI, powered by DALL·E.
 - [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/) - Your copilot for work. It combines the power of large language models (LLMs) with your data in the Microsoft Graph and the Microsoft 365 apps to turn your words into the most powerful productivity tool on the planet.
 - [Microsoft Dynamics 365 Copilot](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/) - Copilot in both CRM and ERP, that brings next-generation AI to every line of business.
 - [Microsoft Power Platform Copilot](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/) - Bringing the power of AI Copilot to both app makers and their end-users in Power Apps. With Copilot you can build an app, including the data behind it, just by describing what you need through multiple steps of conversation.
+- [Microsoft Security Copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) - Empower your defenders to detect hidden patterns, harden defenses, and respond to incidents faster with generative AI.
 - [Xmind Copilot](https://xmind.ai/) - Xmind Copilot is an intelligent product that combines Xmind mind mapping with GPT technology. It can help users organize their thoughts more efficiently, adjust content structures, and automatically generate articles using GPT technology.
 
 ## Projects and Tools
