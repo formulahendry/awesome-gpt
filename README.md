@@ -90,3 +90,9 @@ words with AI, powered by DALL·E.
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
 - [gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for workplaces.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
+
+## Sponsors
+
+![“职场圈”知识星球](https://s1.ax1x.com/2023/04/30/p931UJK.png)
+
+大厂内推、职业发展、职业规划、简历修改建议、技术交流、ChatGPT，以及更多！让你职场路上不迷茫！
