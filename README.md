@@ -88,6 +88,7 @@ words with AI, powered by DALL·E.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command.
 - [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT Telegram Bot: GPT-4. Fast. No daily limits. Special chat modes.
 - [chatgpt-wechat-bot](https://github.com/formulahendry/chatgpt-wechat-bot) - ChatGPT WeChat Bot, based on ChatGPT API and Wechaty.
+- [chatgpt-wechat-public-account](https://github.com/formulahendry/chatgpt-wechat-public-account) - Integrate ChatGPT into your own WeChat Public Account.
 - [Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - Dingtalk + GPT-3.5.
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
 - [gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for workplaces.
