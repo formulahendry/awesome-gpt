@@ -53,6 +53,7 @@ words with AI, powered by DALL·E.
 ## Copilot
 
 - [GitHub Copilot](https://github.com/features/copilot) - Trained on billions of lines of code, GitHub Copilot turns natural language prompts into coding suggestions across dozens of languages.
+- [Windows Copilot](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/) - Make Windows 11 the first PC platform to announce centralized AI assistance to help people easily take action and get things done.
 - [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/) - Your copilot for work. It combines the power of large language models (LLMs) with your data in the Microsoft Graph and the Microsoft 365 apps to turn your words into the most powerful productivity tool on the planet.
 - [Microsoft Dynamics 365 Copilot](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/) - Copilot in both CRM and ERP, that brings next-generation AI to every line of business.
 - [Microsoft Power Platform Copilot](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/) - Bringing the power of AI Copilot to both app makers and their end-users in Power Apps. With Copilot you can build an app, including the data behind it, just by describing what you need through multiple steps of conversation.
