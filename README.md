@@ -66,6 +66,7 @@ words with AI, powered by DALL·E.
 - [MiniGPT-4](https://minigpt-4.github.io/) - Enhancing Vision-language Understanding with Advanced Large Language Models.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed empowers ChatGPT-like model training with a single click, offering 15x speedup over SOTA RLHF systems with unprecedented cost reduction at all scales.
 - [TaskMatrix (Visual ChatGPT)](https://github.com/microsoft/TaskMatrix) - TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
+- [LangChain](https://www.langchain.com/) - Building applications with LLMs through composability. LangChain’s flexible abstractions and extensive toolkit enables developers to harness the power of LLMs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Semantic Kernel (SK) is a lightweight SDK that lets you easily mix conventional programming languages with the latest in Large Language Model (LLM) AI "prompts" with templating, chaining, and planning capabilities out-of-the-box.
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI.
 - [Ghostwriter](https://replit.com/site/ghostwriter) - An AI pair programmer that helps you write better code, faster.
