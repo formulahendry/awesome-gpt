@@ -98,6 +98,7 @@ words with AI, powered by DALL·E.
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
 - [gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for workplaces.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
+- [ChatGPT-App](https://github.com/Poordeveloper/chatgpt-app) - A ChatGPT App for all platforms (Web, Desktop, Mobile).
 
 ## Sponsors
 
