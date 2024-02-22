@@ -49,6 +49,7 @@ words with AI, powered by DALL·E.
 - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 - [Code Samples for OpenAI & Azure OpenAI](https://github.com/formulahendry/openai-examples)
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) - Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.
+- [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs) - 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
 
 ## Copilot
 
