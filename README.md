@@ -76,6 +76,7 @@ words with AI, powered by DALL·E.
 - [Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) - IntelliCode helps you drive accuracy and consistency with code completion that can fill in a whole line at once, supporting VS Code and VS IDE.
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+- [Model Gateway](https://modelgw.com) - Get up to 15x faster response from OpenAI GPT API with Model Gateway. Routes your request to the reliable and fastest available data center.
 
 ## Applications and Demos
 
