@@ -68,6 +68,7 @@ words with AI, powered by DALL·E.
 - [TaskMatrix (Visual ChatGPT)](https://github.com/microsoft/TaskMatrix) - TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
 - [LangChain](https://www.langchain.com/) - Building applications with LLMs through composability. LangChain’s flexible abstractions and extensive toolkit enables developers to harness the power of LLMs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Semantic Kernel (SK) is a lightweight SDK that lets you easily mix conventional programming languages with the latest in Large Language Model (LLM) AI "prompts" with templating, chaining, and planning capabilities out-of-the-box.
+- [Floom](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 - [Cursor](https://www.cursor.so/) - Write, edit, and chat about your code with a powerful AI.
 - [Ghostwriter](https://replit.com/site/ghostwriter) - An AI pair programmer that helps you write better code, faster.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - An AI coding companion that generates whole line and full function code suggestions in your IDE to help you get more done faster.
