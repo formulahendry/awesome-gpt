@@ -104,3 +104,5 @@ words with AI, powered by DALL·E.
 ![“职场圈”知识星球](https://s1.ax1x.com/2023/04/30/p931UJK.png)
 
 大厂内推、职业发展、职业规划、简历修改建议、技术交流、ChatGPT，以及更多！让你职场路上不迷茫！
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 APIs, 28M+ data.
