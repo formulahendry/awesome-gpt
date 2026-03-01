@@ -12,6 +12,7 @@ A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI
 - [Copilot](#copilot)
 - [Projects and Tools](#projects-and-tools)
 - [Applications and Demos](#applications-and-demos)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 ## Introduction
 
