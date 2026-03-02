@@ -76,6 +76,7 @@ words with AI, powered by DALL·E.
 - [Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) - IntelliCode helps you drive accuracy and consistency with code completion that can fill in a whole line at once, supporting VS Code and VS IDE.
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit using LLM to analyze raw DNA data across 17 categories and generate a terminal-style HTML visualization.
 
 ## Applications and Demos
 
