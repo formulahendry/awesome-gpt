@@ -80,6 +80,7 @@ words with AI, powered by DALL·E.
 ## Applications and Demos
 
 
+- [AnveVoice](https://anvevoice.app) - AI-powered voice agent for websites using LLMs to handle customer conversations, navigate pages, fill forms, and book appointments in 50+ languages.
 - [Azure OpenAI Proxy](https://github.com/scalaone/azure-openai-proxy) - An Azure OpenAI API proxy tool that can convert OpenAI API requests into Azure OpenAI API requests, allowing applications that only support OpenAI to seamlessly use Azure Open AI.
 - [bloop](https://github.com/BloopAI/bloop) - A fast code search engine written in Rust.
 - [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram, QQ).
