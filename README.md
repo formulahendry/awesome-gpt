@@ -39,6 +39,7 @@ words with AI, powered by DALL·E.
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) - A deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions.
 - [ERNIE Bot (文心一言)](https://yiyan.baidu.com/) - An AI chatbot service product of Baidu, based on a large language model named "Ernie 3.0-Titan".
 - [Tongyi Qianwen (通义千问)](https://tongyi.aliyun.com/) - A chatbot service developed by Alibaba Cloud, which can interact with people, answer questions and collaborate in creation.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Developers
 
