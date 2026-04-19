@@ -15,6 +15,9 @@ A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI
 
 ## Introduction
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 This repository is a collection of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and other related technologies. Whether you're just getting started with GPT or you're a seasoned expert, this list has something for everyone.
 
 ## Resources
