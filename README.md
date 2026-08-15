@@ -98,6 +98,7 @@ words with AI, powered by DALL·E.
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
 - [gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for workplaces.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator. No API key or relay setup required.
 
 ## Sponsors
 
