@@ -49,6 +49,7 @@ words with AI, powered by DALL·E.
 - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 - [Code Samples for OpenAI & Azure OpenAI](https://github.com/formulahendry/openai-examples)
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) - Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Copilot
 
