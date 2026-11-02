@@ -36,6 +36,9 @@ words with AI, powered by DALL·E.
 - [HuggingChat](https://huggingface.co/chat/) - HuggingChat's goal is to provide an AI assistant with a friendly, human-like personality and the ability to understand and respond to natural language queries from users like you.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) - Firefly is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation.
 - [Midjourney](https://en.wikipedia.org/wiki/Midjourney) - An artificial intelligence program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) - A deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions.
 - [ERNIE Bot (文心一言)](https://yiyan.baidu.com/) - An AI chatbot service product of Baidu, based on a large language model named "Ernie 3.0-Titan".
 - [Tongyi Qianwen (通义千问)](https://tongyi.aliyun.com/) - A chatbot service developed by Alibaba Cloud, which can interact with people, answer questions and collaborate in creation.
