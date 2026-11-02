@@ -42,6 +42,9 @@ words with AI, powered by DALL·E.
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s widescreen solo dance (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99)
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) - A deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions.
 - [ERNIE Bot (文心一言)](https://yiyan.baidu.com/) - An AI chatbot service product of Baidu, based on a large language model named "Ernie 3.0-Titan".
 - [Tongyi Qianwen (通义千问)](https://tongyi.aliyun.com/) - A chatbot service developed by Alibaba Cloud, which can interact with people, answer questions and collaborate in creation.
