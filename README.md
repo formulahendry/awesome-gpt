@@ -91,6 +91,7 @@ words with AI, powered by DALL·E.
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel.
 - [chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot) - A ChatGPT Teams Bot app to let you chat with ChatGPT in Microsoft Teams.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command.
+- [HumanPen](https://humanpen.net/) - Document-level AI humanize (DOCX/PPTX/TXT), translation (12 languages), condensing, citation format correction (12 styles), and research project workflows (100 signup credits; credit-based pricing).
 - [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT Telegram Bot: GPT-4. Fast. No daily limits. Special chat modes.
 - [chatgpt-wechat-bot](https://github.com/formulahendry/chatgpt-wechat-bot) - ChatGPT WeChat Bot, based on ChatGPT API and Wechaty.
 - [chatgpt-wechat-public-account](https://github.com/formulahendry/chatgpt-wechat-public-account) - Integrate ChatGPT into your own WeChat Public Account.
